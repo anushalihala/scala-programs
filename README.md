@@ -1,5 +1,9 @@
 # Specialisation Overview
 
+This repo contains the assignments' problem statements and my solutions.
+
+An overview of the topics covered in each course is given below.
+
 ## Course 1
 
 * Getting Started + Functions & Evaluation
@@ -27,3 +31,5 @@
 * Collections
   * vectors, maps, ranges, arrays, and more 
   * for-comprehensions for querying data
+  
+[Certification link](https://www.coursera.org/account/accomplishments/certificate/KF2MJFUHW2RT)

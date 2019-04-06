@@ -1,0 +1,397 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> C:\Users\anush\Documents\scala projects\forcomp\target\scala-2.11\classes
+compile options:
+1 items
+0 -> -deprecation
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.12
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+22 items
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\common\package.scala -> C:\Users\anush\Documents\scala projects\forcomp\target\scala-2.11\classes\common\package$$anonfun$subFile$1.class
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\common\package.scala -> C:\Users\anush\Documents\scala projects\forcomp\target\scala-2.11\classes\common\package$.class
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\common\package.scala -> C:\Users\anush\Documents\scala projects\forcomp\target\scala-2.11\classes\common\package.class
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> C:\Users\anush\Documents\scala projects\forcomp\target\scala-2.11\classes\forcomp\Anagrams$$anonfun$1.class
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> C:\Users\anush\Documents\scala projects\forcomp\target\scala-2.11\classes\forcomp\Anagrams$$anonfun$combinations$1$$anonfun$apply$1.class
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> C:\Users\anush\Documents\scala projects\forcomp\target\scala-2.11\classes\forcomp\Anagrams$$anonfun$combinations$1.class
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> C:\Users\anush\Documents\scala projects\forcomp\target\scala-2.11\classes\forcomp\Anagrams$$anonfun$dictionaryByOccurrences$1.class
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> C:\Users\anush\Documents\scala projects\forcomp\target\scala-2.11\classes\forcomp\Anagrams$$anonfun$forcomp$Anagrams$$occurrenceAnagrams$1$1.class
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> C:\Users\anush\Documents\scala projects\forcomp\target\scala-2.11\classes\forcomp\Anagrams$$anonfun$forcomp$Anagrams$$occurrenceAnagrams$1$2$$anonfun$apply$2$$anonfun$apply$3.class
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> C:\Users\anush\Documents\scala projects\forcomp\target\scala-2.11\classes\forcomp\Anagrams$$anonfun$forcomp$Anagrams$$occurrenceAnagrams$1$2$$anonfun$apply$2.class
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> C:\Users\anush\Documents\scala projects\forcomp\target\scala-2.11\classes\forcomp\Anagrams$$anonfun$forcomp$Anagrams$$occurrenceAnagrams$1$2.class
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> C:\Users\anush\Documents\scala projects\forcomp\target\scala-2.11\classes\forcomp\Anagrams$$anonfun$sentenceOccurrences$1.class
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> C:\Users\anush\Documents\scala projects\forcomp\target\scala-2.11\classes\forcomp\Anagrams$$anonfun$subtract$1.class
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> C:\Users\anush\Documents\scala projects\forcomp\target\scala-2.11\classes\forcomp\Anagrams$$anonfun$subtract$2.class
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> C:\Users\anush\Documents\scala projects\forcomp\target\scala-2.11\classes\forcomp\Anagrams$$anonfun$wordOccurrences$1.class
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> C:\Users\anush\Documents\scala projects\forcomp\target\scala-2.11\classes\forcomp\Anagrams$$anonfun$wordOccurrences$2.class
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> C:\Users\anush\Documents\scala projects\forcomp\target\scala-2.11\classes\forcomp\Anagrams$.class
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> C:\Users\anush\Documents\scala projects\forcomp\target\scala-2.11\classes\forcomp\Anagrams.class
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\package.scala -> C:\Users\anush\Documents\scala projects\forcomp\target\scala-2.11\classes\forcomp\package$$anonfun$1.class
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\package.scala -> C:\Users\anush\Documents\scala projects\forcomp\target\scala-2.11\classes\forcomp\package$$anonfun$2.class
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\package.scala -> C:\Users\anush\Documents\scala projects\forcomp\target\scala-2.11\classes\forcomp\package$.class
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\package.scala -> C:\Users\anush\Documents\scala projects\forcomp\target\scala-2.11\classes\forcomp\package.class
+binary dependencies:
+6 items
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\common\package.scala -> C:\Java\jdk1.8.0_161\jre\lib\rt.jar
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\common\package.scala -> C:\Users\anush\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.11.12\scala-library-2.11.12.jar
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> C:\Java\jdk1.8.0_161\jre\lib\rt.jar
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> C:\Users\anush\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.11.12\scala-library-2.11.12.jar
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\package.scala -> C:\Java\jdk1.8.0_161\jre\lib\rt.jar
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\package.scala -> C:\Users\anush\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.11.12\scala-library-2.11.12.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+2 items
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\package.scala
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\package.scala -> C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\common\package.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+22 items
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\common\package.scala -> common.package
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\common\package.scala -> common.package$
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\common\package.scala -> common.package$$anonfun$subFile$1
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> forcomp.Anagrams
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> forcomp.Anagrams$
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> forcomp.Anagrams$$anonfun$1
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> forcomp.Anagrams$$anonfun$combinations$1
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> forcomp.Anagrams$$anonfun$combinations$1$$anonfun$apply$1
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> forcomp.Anagrams$$anonfun$dictionaryByOccurrences$1
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> forcomp.Anagrams$$anonfun$forcomp$Anagrams$$occurrenceAnagrams$1$1
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> forcomp.Anagrams$$anonfun$forcomp$Anagrams$$occurrenceAnagrams$1$2
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> forcomp.Anagrams$$anonfun$forcomp$Anagrams$$occurrenceAnagrams$1$2$$anonfun$apply$2
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> forcomp.Anagrams$$anonfun$forcomp$Anagrams$$occurrenceAnagrams$1$2$$anonfun$apply$2$$anonfun$apply$3
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> forcomp.Anagrams$$anonfun$sentenceOccurrences$1
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> forcomp.Anagrams$$anonfun$subtract$1
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> forcomp.Anagrams$$anonfun$subtract$2
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> forcomp.Anagrams$$anonfun$wordOccurrences$1
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> forcomp.Anagrams$$anonfun$wordOccurrences$2
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\package.scala -> forcomp.package
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\package.scala -> forcomp.package$
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\package.scala -> forcomp.package$$anonfun$1
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\package.scala -> forcomp.package$$anonfun$2
+used names:
+226 items
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\common\package.scala -> ::
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\common\package.scala -> <init>
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\common\package.scala -> <repeated>
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\common\package.scala -> ?0
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\common\package.scala -> A
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\common\package.scala -> Any
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\common\package.scala -> AnyRef
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\common\package.scala -> B
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\common\package.scala -> Boolean
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\common\package.scala -> Class
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\common\package.scala -> File
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\common\package.scala -> FileInputStream
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\common\package.scala -> Function2
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\common\package.scala -> InputStream
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\common\package.scala -> List
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\common\package.scala -> None
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\common\package.scala -> Nothing
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\common\package.scala -> Object
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\common\package.scala -> Option
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\common\package.scala -> Predef
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\common\package.scala -> Some
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\common\package.scala -> String
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\common\package.scala -> URI
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\common\package.scala -> URL
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\common\package.scala -> _root_
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\common\package.scala -> child
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\common\package.scala -> children
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\common\package.scala -> classesDir
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\common\package.scala -> common
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\common\package.scala -> exists
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\common\package.scala -> file
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\common\package.scala -> foldLeft
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\common\package.scala -> getClass
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\common\package.scala -> getParentFile
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\common\package.scala -> getResource
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\common\package.scala -> io
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\common\package.scala -> java
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\common\package.scala -> package
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\common\package.scala -> projectDir
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\common\package.scala -> resourceFile
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\common\package.scala -> resourcePath
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\common\package.scala -> scala
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\common\package.scala -> subFile
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\common\package.scala -> toURI
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> !=
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> $conforms
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> &&
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> +
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> ++
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> -
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> --
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> ->
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> ::
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> <:<
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> <init>
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> <repeated>
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> ==
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> >
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> A
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> Anagrams
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> Any
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> AnyRef
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> ArrowAssoc
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> B
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> B1
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> Boolean
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> CanBuildFrom
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> Char
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> Coll
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> Function1
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> Function2
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> GenTraversableOnce
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> Inclusive
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> IndexedSeq
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> Int
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> K
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> List
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> Map
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> MatchError
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> Nil
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> Nothing
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> Object
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> Occurrences
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> Ordering
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> Predef
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> Range
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> RichInt
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> Sentence
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> Set
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> Some
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> String
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> StringOps
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> T
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> T0
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> T1
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> T2
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> That
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> Tuple2
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> U
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> Unit
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> Word
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> _1
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> _2
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> acc
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> addTerm
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> apply
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> asInstanceOf
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> augmentString
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> canBuildFrom
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> ch
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> combinations
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> combs
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> contains
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> dictionary
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> dictionaryByOccurrences
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> equals
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> filter
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> flatMap
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> foldLeft
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> forcomp
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> get
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> groupBy
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> head
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> i
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> immutable
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> intWrapper
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> isEmpty
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> isInstanceOf
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> length
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> lengthCompare
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> loadDictionary
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> map
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> math
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> mysoln
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> n
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> ne
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> next
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> occ_i
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> occ_i_word
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> occ_j
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> occurrenceAnagrams
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> occurrences
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> p
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> package
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> println
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> s
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> scala
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> sentOccs
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> sentence
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> sentenceAnagrams
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> sentenceOccurrences
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> seq1
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> seq2
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> soln1
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> soln2
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> sorted
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> subtract
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> term
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> terms
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> to
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> toList
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> toLowerCase
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> toMap
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> toSet
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> unapplySeq
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> unary_!
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> unchecked
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> w
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> withDefaultValue
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> word
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> wordOccurrences
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> x
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> xMap
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> x_pairs
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> xs
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> xs_pairs
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> y
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> yMap
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\package.scala -> +
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\package.scala -> <byname>
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\package.scala -> <init>
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\package.scala -> <repeated>
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\package.scala -> ?0
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\package.scala -> A
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\package.scala -> Any
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\package.scala -> AnyRef
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\package.scala -> B
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\package.scala -> BufferedSource
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\package.scala -> Class
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\package.scala -> Codec
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\package.scala -> Exception
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\package.scala -> InputStream
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\package.scala -> Iterator
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\package.scala -> List
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\package.scala -> Nothing
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\package.scala -> Object
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\package.scala -> Option
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\package.scala -> Predef
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\package.scala -> Source
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\package.scala -> String
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\package.scala -> Unit
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\package.scala -> apply
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\package.scala -> close
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\package.scala -> common
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\package.scala -> dictionaryPath
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\package.scala -> e
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\package.scala -> error
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\package.scala -> fallbackSystemCodec
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\package.scala -> forcomp
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\package.scala -> fromInputStream
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\package.scala -> getClass
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\package.scala -> getLines
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\package.scala -> getOrElse
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\package.scala -> getResourceAsStream
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\package.scala -> immutable
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\package.scala -> io
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\package.scala -> mkString
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\package.scala -> orElse
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\package.scala -> package
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\package.scala -> println
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\package.scala -> resourceAsStreamFromSrc
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\package.scala -> s
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\package.scala -> scala
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\package.scala -> sys
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\package.scala -> toList
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\package.scala -> wordstream
+product stamps:
+22 items
+C:\Users\anush\Documents\scala projects\forcomp\target\scala-2.11\classes\common\package$$anonfun$subFile$1.class -> lastModified(1554404368917)
+C:\Users\anush\Documents\scala projects\forcomp\target\scala-2.11\classes\common\package$.class -> lastModified(1554404368887)
+C:\Users\anush\Documents\scala projects\forcomp\target\scala-2.11\classes\common\package.class -> lastModified(1554404368725)
+C:\Users\anush\Documents\scala projects\forcomp\target\scala-2.11\classes\forcomp\Anagrams$$anonfun$1.class -> lastModified(1554459140662)
+C:\Users\anush\Documents\scala projects\forcomp\target\scala-2.11\classes\forcomp\Anagrams$$anonfun$combinations$1$$anonfun$apply$1.class -> lastModified(1554459140697)
+C:\Users\anush\Documents\scala projects\forcomp\target\scala-2.11\classes\forcomp\Anagrams$$anonfun$combinations$1.class -> lastModified(1554459140686)
+C:\Users\anush\Documents\scala projects\forcomp\target\scala-2.11\classes\forcomp\Anagrams$$anonfun$dictionaryByOccurrences$1.class -> lastModified(1554459140709)
+C:\Users\anush\Documents\scala projects\forcomp\target\scala-2.11\classes\forcomp\Anagrams$$anonfun$forcomp$Anagrams$$occurrenceAnagrams$1$1.class -> lastModified(1554459140727)
+C:\Users\anush\Documents\scala projects\forcomp\target\scala-2.11\classes\forcomp\Anagrams$$anonfun$forcomp$Anagrams$$occurrenceAnagrams$1$2$$anonfun$apply$2$$anonfun$apply$3.class -> lastModified(1554459140780)
+C:\Users\anush\Documents\scala projects\forcomp\target\scala-2.11\classes\forcomp\Anagrams$$anonfun$forcomp$Anagrams$$occurrenceAnagrams$1$2$$anonfun$apply$2.class -> lastModified(1554459140762)
+C:\Users\anush\Documents\scala projects\forcomp\target\scala-2.11\classes\forcomp\Anagrams$$anonfun$forcomp$Anagrams$$occurrenceAnagrams$1$2.class -> lastModified(1554459140744)
+C:\Users\anush\Documents\scala projects\forcomp\target\scala-2.11\classes\forcomp\Anagrams$$anonfun$sentenceOccurrences$1.class -> lastModified(1554459140792)
+C:\Users\anush\Documents\scala projects\forcomp\target\scala-2.11\classes\forcomp\Anagrams$$anonfun$subtract$1.class -> lastModified(1554459140801)
+C:\Users\anush\Documents\scala projects\forcomp\target\scala-2.11\classes\forcomp\Anagrams$$anonfun$subtract$2.class -> lastModified(1554459140813)
+C:\Users\anush\Documents\scala projects\forcomp\target\scala-2.11\classes\forcomp\Anagrams$$anonfun$wordOccurrences$1.class -> lastModified(1554459140824)
+C:\Users\anush\Documents\scala projects\forcomp\target\scala-2.11\classes\forcomp\Anagrams$$anonfun$wordOccurrences$2.class -> lastModified(1554459140835)
+C:\Users\anush\Documents\scala projects\forcomp\target\scala-2.11\classes\forcomp\Anagrams$.class -> lastModified(1554459140638)
+C:\Users\anush\Documents\scala projects\forcomp\target\scala-2.11\classes\forcomp\Anagrams.class -> lastModified(1554459140426)
+C:\Users\anush\Documents\scala projects\forcomp\target\scala-2.11\classes\forcomp\package$$anonfun$1.class -> lastModified(1554404369310)
+C:\Users\anush\Documents\scala projects\forcomp\target\scala-2.11\classes\forcomp\package$$anonfun$2.class -> lastModified(1554404369331)
+C:\Users\anush\Documents\scala projects\forcomp\target\scala-2.11\classes\forcomp\package$.class -> lastModified(1554404369291)
+C:\Users\anush\Documents\scala projects\forcomp\target\scala-2.11\classes\forcomp\package.class -> lastModified(1554404369270)
+source stamps:
+3 items
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\common\package.scala -> hash(885b8f12a5b2a83dad658f76cc1fdd678a38d4a8)
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> hash(9f538e9c5f446e79c5d62989292c2bcaca3f908d)
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\package.scala -> hash(a64854b031e9b3c306e46ebaf74b7267af66796a)
+binary stamps:
+2 items
+C:\Java\jdk1.8.0_161\jre\lib\rt.jar -> lastModified(1522226930544)
+C:\Users\anush\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.11.12\scala-library-2.11.12.jar -> lastModified(1509673049000)
+class names:
+2 items
+C:\Java\jdk1.8.0_161\jre\lib\rt.jar -> java.lang.Object
+C:\Users\anush\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.11.12\scala-library-2.11.12.jar -> scala.collection.immutable.List$
+internal apis:
+3 items
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\common\package.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwB2GhlgABc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAYc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwyb4xfHQABm5vdGlmeXNxAH4ADLd7app0AAdwYWNrYWdlc3EAfgAMJhK6tnQABHdhaXRzcQB+AAzx5+qMdAANJGFzSW5zdGFuY2VPZnNxAH4ADM2K/A90AAZlcXVhbHNzcQB+AAzxbFRpdAAMYXNJbnN0YW5jZU9mc3EAfgAMzsiFSnQADHN5bmNocm9uaXplZHNxAH4ADFjDlPV0AA0kaXNJbnN0YW5jZU9mc3EAfgAMqj2IS3QAF3Jlc291cmNlQXNTdHJlYW1Gcm9tU3Jjc3EAfgAMg3y8U3QACW5vdGlmeUFsbHNxAH4ADCYkqcp0AAxpc0luc3RhbmNlT2ZzcQB+AAxpxNpvdAADPz8/c3EAfgAMmnpgkXQAAj09c3EAfgAM8o3wU3QABWNsb25lc3EAfgAMZ0zWI3QAB3N1YkZpbGVzcQB+AAwkK+HodAAIdG9TdHJpbmdzcQB+AAw/usRqdAACIT1zcQB+AAwIl7qqdAAIZ2V0Q2xhc3NzcQB+AAwIKkOTdAACbmVzcQB+AAwadAmLdAACZXFzcQB+AAyTEjXPdAACIyNzcQB+AAyNdORTdAAIZmluYWxpemVzcQB+AAxU1D+IdAAIaGFzaENvZGVzcQB+AAx7bUT0dAADKioqc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AR3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQADmNvbW1vbi5wYWNrYWdldXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBfc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEdMAAlpbmhlcml0ZWRxAH4AR0wAB3BhcmVudHNxAH4AR3hxAH4AZHNxAH4AX3VxAH4AQgAAAABzcQB+AF91cQB+AEIAAAAAc3EAfgBfdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBjdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBjc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgB8dAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB9c3EAfgBwdAADQW55c3EAfgB0c3EAfgB3dXEAfgB6AAAAAnNxAH4AfHQABXNjYWxhcQB+AIN1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAZjb21tb25zcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWnpuE9udXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQASUM6XFVzZXJzXGFudXNoXERvY3VtZW50c1xzY2FsYSBwcm9qZWN0c1xmb3Jjb21wXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSIW48SpbKoPa1lj3bMH91nijjUqA==
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw7qG3aAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAgc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwm8f77HQABm5vdGlmeXNxAH4ADAopdxt0AAR0ZXN0c3EAfgAM2JTEUnQABHdhaXRzcQB+AAyG3tQzdAANJGFzSW5zdGFuY2VPZnNxAH4ADBhs8010AAhzdWJ0cmFjdHNxAH4ADLnnh/h0AAZlcXVhbHNzcQB+AAwQqJLQdAAKZGljdGlvbmFyeXNxAH4ADOYvKDJ0AAxhc0luc3RhbmNlT2ZzcQB+AAwk9haydAAPd29yZE9jY3VycmVuY2Vzc3EAfgAMyr6SB3QADHN5bmNocm9uaXplZHNxAH4ADPZPBLt0AA0kaXNJbnN0YW5jZU9mc3EAfgAM4VLytHQAEHNlbnRlbmNlQW5hZ3JhbXNzcQB+AAyTSA3zdAAMd29yZEFuYWdyYW1zc3EAfgAM4XX8I3QACW5vdGlmeUFsbHNxAH4ADC9uSMN0AAxpc0luc3RhbmNlT2ZzcQB+AAyfXZg0dAAMY29tYmluYXRpb25zc3EAfgAMjfQfN3QAC09jY3VycmVuY2Vzc3EAfgAMqt3JQnQAAj09c3EAfgAMd61m7HQABWNsb25lc3EAfgAMLcbN0XQAF2RpY3Rpb25hcnlCeU9jY3VycmVuY2Vzc3EAfgAMbX6JdHQACHRvU3RyaW5nc3EAfgAMuadwKXQAAiE9c3EAfgAM7DoGpXQAE3NlbnRlbmNlT2NjdXJyZW5jZXNzcQB+AAwlcZiOdAAIZ2V0Q2xhc3NzcQB+AAyqKMcRdAACbmVzcQB+AAwO5O2odAAIQW5hZ3JhbXNzcQB+AAw7KkDQdAACZXFzcQB+AAwCYCfWdAAIU2VudGVuY2VzcQB+AAz7uMDPdAAEV29yZHNxAH4ADGSo/o50AAIjI3NxAH4ADHCUonN0AAhmaW5hbGl6ZXNxAH4ADO9tmaV0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AFd4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ABBmb3Jjb21wLkFuYWdyYW1zdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBvc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AFdMAAlpbmhlcml0ZWRxAH4AV0wAB3BhcmVudHNxAH4AV3hxAH4AdHNxAH4Ab3VxAH4AUgAAAABzcQB+AG91cQB+AFIAAAAAc3EAfgBvdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBzdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBzc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCMdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCNc3EAfgCAdAADQW55c3EAfgCEc3EAfgCHdXEAfgCKAAAAAnNxAH4AjHQABXNjYWxhcQB+AJN1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAdmb3Jjb21wc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFp7Pv8/XVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AElDOlxVc2Vyc1xhbnVzaFxEb2N1bWVudHNcc2NhbGEgcHJvamVjdHNcZm9yY29tcFx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUn1OOnF9EbnnF1imJKSwryso/kI0=
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\package.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwr29SrwABc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAWc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw1vPSlnQABm5vdGlmeXNxAH4ADKof6dt0AAdwYWNrYWdlc3EAfgAMCX53LHQABHdhaXRzcQB+AAwtz9itdAANJGFzSW5zdGFuY2VPZnNxAH4ADJnhQw10AAZlcXVhbHNzcQB+AAy07NYqdAAMYXNJbnN0YW5jZU9mc3EAfgAMDhnxjnQADHN5bmNocm9uaXplZHNxAH4ADDkwLj90AA0kaXNJbnN0YW5jZU9mc3EAfgAMzxk3nnQACW5vdGlmeUFsbHNxAH4ADEXbkS10AAxpc0luc3RhbmNlT2ZzcQB+AAyoNYyYdAAObG9hZERpY3Rpb25hcnlzcQB+AAxpHALmdAACPT1zcQB+AAx45NzidAAFY2xvbmVzcQB+AAx7CuWGdAAIdG9TdHJpbmdzcQB+AAwYEJOedAACIT1zcQB+AAzL7+T+dAAIZ2V0Q2xhc3NzcQB+AAxCp2+9dAACbmVzcQB+AAz48sczdAAOZGljdGlvbmFyeVBhdGhzcQB+AAzPlneHdAACZXFzcQB+AAxJx/PkdAACIyNzcQB+AAxQn5IwdAAIZmluYWxpemVzcQB+AAwl3sP5dAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBDeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAPZm9yY29tcC5wYWNrYWdldXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBbc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AENMAAlpbmhlcml0ZWRxAH4AQ0wAB3BhcmVudHNxAH4AQ3hxAH4AYHNxAH4AW3VxAH4APgAAAABzcQB+AFt1cQB+AD4AAAAAc3EAfgBbdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBfdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBfc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgB4dAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB5c3EAfgBsdAADQW55c3EAfgBwc3EAfgBzdXEAfgB2AAAAAnNxAH4AeHQABXNjYWxhcQB+AH91cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAdmb3Jjb21wc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFp6bhPbnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AElDOlxVc2Vyc1xhbnVzaFxEb2N1bWVudHNcc2NhbGEgcHJvamVjdHNcZm9yY29tcFx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUpkhUsDHps8MG5G6690tyZ69meWo=
+external apis:
+0 items
+source infos:
+3 items
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\common\package.scala -> 
+AAAAAAAAAAA=
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\Anagrams.scala -> 
+AAAAAAAAAAA=
+C:\Users\anush\Documents\scala projects\forcomp\src\main\scala\forcomp\package.scala -> 
+AAAAAAAAAAA=
+compilations:
+17 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaem4T251cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASUM6XFVzZXJzXGFudXNoXERvY3VtZW50c1xzY2FsYSBwcm9qZWN0c1xmb3Jjb21wXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaenSlO11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASUM6XFVzZXJzXGFudXNoXERvY3VtZW50c1xzY2FsYSBwcm9qZWN0c1xmb3Jjb21wXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaenlxmJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASUM6XFVzZXJzXGFudXNoXERvY3VtZW50c1xzY2FsYSBwcm9qZWN0c1xmb3Jjb21wXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaen5sSp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASUM6XFVzZXJzXGFudXNoXERvY3VtZW50c1xzY2FsYSBwcm9qZWN0c1xmb3Jjb21wXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaen9hZN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASUM6XFVzZXJzXGFudXNoXERvY3VtZW50c1xzY2FsYSBwcm9qZWN0c1xmb3Jjb21wXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaen+ynZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASUM6XFVzZXJzXGFudXNoXERvY3VtZW50c1xzY2FsYSBwcm9qZWN0c1xmb3Jjb21wXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaeoAZ4t1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASUM6XFVzZXJzXGFudXNoXERvY3VtZW50c1xzY2FsYSBwcm9qZWN0c1xmb3Jjb21wXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaeoSkRZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASUM6XFVzZXJzXGFudXNoXERvY3VtZW50c1xzY2FsYSBwcm9qZWN0c1xmb3Jjb21wXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaeoXelp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASUM6XFVzZXJzXGFudXNoXERvY3VtZW50c1xzY2FsYSBwcm9qZWN0c1xmb3Jjb21wXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaeoZ4Ex1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASUM6XFVzZXJzXGFudXNoXERvY3VtZW50c1xzY2FsYSBwcm9qZWN0c1xmb3Jjb21wXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaeoa+0t1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASUM6XFVzZXJzXGFudXNoXERvY3VtZW50c1xzY2FsYSBwcm9qZWN0c1xmb3Jjb21wXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+11 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaeocQ0V1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASUM6XFVzZXJzXGFudXNoXERvY3VtZW50c1xzY2FsYSBwcm9qZWN0c1xmb3Jjb21wXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+12 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaeofCQZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASUM6XFVzZXJzXGFudXNoXERvY3VtZW50c1xzY2FsYSBwcm9qZWN0c1xmb3Jjb21wXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+13 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaezlEsd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASUM6XFVzZXJzXGFudXNoXERvY3VtZW50c1xzY2FsYSBwcm9qZWN0c1xmb3Jjb21wXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+14 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaezvibV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASUM6XFVzZXJzXGFudXNoXERvY3VtZW50c1xzY2FsYSBwcm9qZWN0c1xmb3Jjb21wXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+15 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaez3aFV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASUM6XFVzZXJzXGFudXNoXERvY3VtZW50c1xzY2FsYSBwcm9qZWN0c1xmb3Jjb21wXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+16 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaez7/P11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASUM6XFVzZXJzXGFudXNoXERvY3VtZW50c1xzY2FsYSBwcm9qZWN0c1xmb3Jjb21wXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv

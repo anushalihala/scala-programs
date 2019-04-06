@@ -17,9 +17,11 @@ Note that a given encoding is only optimal if the character frequencies in the e
 Finally, observe the recursive structure of the coding tree: every sub-tree is itself a valid code tree for a smaller alphabet.
 
 **Encoding**
+
 For a given Huffman tree, one can obtain the encoded representation of a character by traversing from the root of the tree to the leaf containing the character. Along the way, when a left branch is chosen, a 0 is added to the representation, and when a right branch is chosen, 1 is added to the representation. Thus, for the Huffman tree above, the character D is encoded as 1011.
 
 **Decoding**
+
 Decoding also starts at the root of the tree. Given a sequence of bits to decode, we successively read the bits, and for each 0, we choose the left branch, and for each 1 we choose the right branch. When we reach a leaf, we decode the corresponding character and then start again at the root of the tree. As an example, given the Huffman tree above, the sequence of bits,10001010 corresponds to BAC.
 
 ## Implementation
@@ -78,6 +80,7 @@ Use this function and the frenchCode code tree to decode the bit sequence in sec
 This section deals with the Huffman encoding of a sequence of characters into a sequence of bits.
 
 **…Using a Huffman Tree**
+
 Define the function encode which encodes a list of characters using Huffman coding, given a code tree.
 ```
 def encode(tree: CodeTree)(text: List[Char]): List[Bit] = ...
@@ -86,6 +89,7 @@ def encode(tree: CodeTree)(text: List[Char]): List[Bit] = ...
 Your implementation must traverse the coding tree for each character, a task that should be done using a helper function.
 
 **…Using a Coding Table**
+
 The previous function is simple, but very inefficient. You goal is now to define quickEncode which encodes an equivalent representation, but more efficiently.
 ```
 def quickEncode(tree: CodeTree)(text: List[Char]): List[Bit] = ...

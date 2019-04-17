@@ -56,7 +56,7 @@ An overview of the topics covered in each course is given below.
   * important combinators on futures
   * how futures can be composed to build up rich and responsive services
   
-Certification link: In Progress
+[Certification link](https://www.coursera.org/account/accomplishments/certificate/ULRCKMUTDY4S) (Grade: 100%)
   
 ## Course 3: Parallel Programming
 

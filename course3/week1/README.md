@@ -47,7 +47,8 @@ class Img(val width: Int, val height: Int) {
 ```
 
 The image is a two-dimensional entity -- to refer to a pixel in an image, we need to specify an x and y component. On the other hand, the underlying memory model is one-dimensional -- a single offset value specifies the position in the array. When we store the image into memory, we need to map between the two-dimensional image model and the one-dimensional memory model. We will do this by storing consecutive rows of the image one after another, as illustrated in the following figure:
-![](img1.PNG)
+
+![](img1.png)
 
 Thus, the offset of a pixel at coordinates x and y, is equal to y * width + x, where width is the number of pixels in a single row. Although there are other mappings used in practice, we will restrict to this simple mapping throughout the exercise.
 
@@ -72,7 +73,8 @@ We now have everything we need to start implementing the parallel box filter.
 ### The Box Blur Filter Kernel
 
 In the first part of the assignment, we will implement the box blur filter kernel method. A kernel is a method that computes the resulting value of a single pixel. The kernel method is typically computationally cheap and is not worth parallelizing its implementation. However, as we will later see, we can apply the same kernel method to different pixels in parallel.
-![](img2.PNG)
+
+![](img2.png)
 
 The boxBlurKernel method takes the source image src, coordinates x and y of the pixel, and the radius of the blur. It returns the resulting average value of the surrounding pixels. We compute the average value by separating the pixel into four channels, computing the average of each of the channels, and using the four average values to produce the final pixel value. In the previous figure, the radius parameter is equal to 1 and the average is computed from 9 pixels.
 
@@ -88,7 +90,8 @@ Implement the boxBlurKernel method. Use two nested while-loops. Make sure that t
 We can now implement the parallel box blur filter. Note that the boxBlurKernel method is relatively inexpensive. Executing boxBlurKernel might be much faster than starting a parallel computation, so having a separate parallel computation for the value of each pixel would be far too expensive. For this reason, we want to batch together many boxBlurKernel calls, and have a smaller number of parallel tasks. This is sometimes referred to as agglomeration, and is present in many parallel algorithm implementations.
 
 There are many different ways we can do agglomeration for the parallel box blur. One is to divide the image into a fixed number of equally wide vertical strips. For each strip, we start a parallel task, and wait for their completion. Within each strip, we traverse the pixels going from the top to the bottom of the image, as illustrated in the following figure:
-![](img3.PNG)
+
+![](img3.png)
 
 We start by implementing the sequential blur method in the VerticalBoxBlur.scala source file, which takes the source image src, the destination image dst, the starting (included) and ending (excluded) x coordinates (i.e, column indices) of the strip, called from and end, and the blur radius. The blur method blurs the pixels from the src image and writes them to the dst image:
 ```
@@ -114,7 +117,8 @@ Change the number of tasks and the radius parameter. How does the performance ch
 ### Horizontal Stripping Box Blur
 
 In this part of the exercise we will pick an alternative agglomeration for the box blur algorithm. Instead of dividing the image into vertical strips, we will divide it into horizontal strips in a similar way:
-![](img4.PNG)
+
+![](img4.png)
 
 We implement the two methods, blur and parBlur in a similar way as before:
 ```

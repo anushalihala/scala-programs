@@ -28,23 +28,14 @@ object Main {
    * Exercise 2
    */
     def balance(chars: List[Char]): Boolean = {
-      def balanceBrace(chars: List[Char], n: Int): Boolean = {
-        if (chars.isEmpty) {
-          if(n==0) true
-          else false
-        }
-        else {
-          if (chars.head == '(') balanceBrace(chars.tail, n+1)
-          else {
-            if (chars.head == ')') {
-              if (n == 0) false
-              else balanceBrace(chars.tail, n-1)
-            }
-            else balanceBrace(chars.tail, n)
-          }
-        }
+      def balanceHelper(chars:List[Char], acc:Int): Boolean ={
+        if(acc<0) false
+        else if(chars.isEmpty) acc==0
+        else if(chars.head=='(') balanceHelper(chars.tail, acc+1)
+        else if(chars.head==')') balanceHelper(chars.tail, acc-1)
+        else balanceHelper(chars.tail, acc)
       }
-      balanceBrace(chars, 0)
+      balanceHelper(chars, 0)
     }
   
   /**

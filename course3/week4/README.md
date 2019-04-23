@@ -274,7 +274,7 @@ def step(bodies: Seq[Body]): (Seq[Body], Quad) = {
 
 The pre-existing code in step nicely summarizes what this method does.
 
-### Computing the Scene Boundaries
+#### Computing the Scene Boundaries
 
 First, we must compute the boundaries of all the bodies in the scene. Since bodies move and the boundaries dynamically change, we must do this in every iteration of the algorithm. The computeBoundaries method is already implemented -- it uses the aggregate combinator on the sequence of bodies to compute the boundaries:
 ```

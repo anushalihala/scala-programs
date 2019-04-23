@@ -77,7 +77,7 @@ An overview of the topics covered in each course is given below.
   * internals of data structures for parallel computing
   * what happens under the hood of parallel collections
 
-Certification link: In Progress
+[Certification link](https://www.coursera.org/account/accomplishments/certificate/ZLYY5CUCDP3T) (Grade: 100%)
 
 ## Course 4: Big Data Analysis with Scala and Spark
 

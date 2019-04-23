@@ -5,9 +5,11 @@
 In this assignment, you will implement the K-means algorithm for cluster detection, which is used to partition n vectors into k clusters. Here, vectors are separated into clusters based on their mutual similarity -- vectors that are closer to each other in space are more likely to end up in the same cluster, and the distant vectors are likely to be in different clusters. K-means has many applications: it is used in data mining, image filtering and signal processing.
 
 Here is a simple example -- let's say that we have a set of vectors in 2D space, as shown in the following figure:
+
 ![](img1.png)
 
 As a human, you can visually distinguish the three clusters of points in the image:
+
 ![](img2.png)
 
 When the number of clusters, dimensions and vectors grows, it becomes difficult and even impossible to manually determine the clusters. K-means is a simple algorithm that takes a set of vectors (called points) and outputs as set of clusters as follows:
@@ -21,18 +23,23 @@ When the number of clusters, dimensions and vectors grows, it becomes difficult 
 Above, two steps need additional discussion. First, how do we pick the initial k means? The initialization step can be done in many different ways -- we will just randomly pick some of the input vectors. Second, how do we know that the algorithm converged? We will check that, for each mean, the square distance between the old value of the mean and the new value of the mean is less than or equal to some value eta.
 
 For a better illustration, here are a few steps of the K-means algorithm. Initially, we pick a random set of means, shown with "X" in the figure:
+
 ![](img3.png)
 
 Then, we classify the points according to the closest mean ("X"). The means divide the space into regions, where each point is closer to the corresponding mean than any other mean -- in the figure, the dotted line depicts the borders of different regions:
+
 ![](img4.png)
 
 All the points in the same region form one cluster. After having classified the points, we can update the mean values to the average of all the points in the cluster:
+
 ![](img5.png)
 
 Each of the means was significantly updated. This is a good indication that the algorithm did not yet converge, so we repeat the steps again -- we first classify all the points:
+
 ![](img6.png)
 
 And then we update the means again:
+
 ![](img7.png)
 
 One of the means did not change at all in the last step. Still, other means have changed so we continue this process until the change in the position of each point drops below the eta value.
@@ -119,9 +126,11 @@ And now for the fun part -- the K-means algorithm has a lot of use-cases!
 In image processing applications, it can be used to reduce the size of the color palette, thus compressing the image. This is done by turning a true color image, where each pixel is encoded into 32 bits, into indexed color, where each pixel can be encoded with just a few bits. This is done by using k-means to "cluster" the important colors in the image, thus reducing its palette from 24-bit (2^24 colors) to just 32 indexed colors, chosen from the 24-bit palette. Here, pixels from the image are the input vectors, and their coordinates are the different color channels.
 
 This is the original true color (24-bit) image:
+
 ![](img8.png)
 
 And this is the indexed color (32 colors) version of it:
+
 ![](img9.png)
 
 So, thanks to your k-means implementation, ScalaShop can now compress images! You can start ScalaShop by invoking:

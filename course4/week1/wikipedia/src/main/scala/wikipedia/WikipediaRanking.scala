@@ -58,7 +58,7 @@ object WikipediaRanking {
    *   several seconds.
    */
   def rankLangsUsingIndex(index: RDD[(String, Iterable[WikipediaArticle])]): List[(String, Int)] = {
-    index.mapValues(articles => articles.count(p => true)).sortBy(p => p._2, false).collect().toList
+    index.mapValues(articles => articles.size).sortBy(p => p._2, false).collect().toList
   }
 
 

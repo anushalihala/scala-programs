@@ -36,11 +36,11 @@ We will use a simple metric for determining the popularity of a programming lang
 
 #### Rank languages attempt 1: rankLangs
 
-Computing occurrencesOfLang
+**Computing occurrencesOfLang**
 
 Start by implementing a helper method occurrencesOfLang which computes the number of articles in an RDD of type RDD[WikipediaArticles] that mention the given language at least once. For the sake of simplicity we check that it least one word (delimited by spaces) of the article text is equal to the given language.
 
-Computing the ranking, rankLangs
+**Computing the ranking, rankLangs**
 
 Using occurrencesOfLang, implement a method rankLangs which computes a list of pairs where the second component of the pair is the number of articles that mention the language (the first component of the pair is the name of the language).
 
@@ -55,7 +55,7 @@ Pay attention to roughly how long it takes to run this part! (It should take ten
 
 #### Rank languages attempt 2: rankLangsUsingIndex
 
-Compute an inverted index
+**Compute an inverted index**
 
 An inverted index is an index data structure storing a mapping from content, such as words or numbers, to a set of documents. In particular, the purpose of an inverted index is to allow fast full text searches. In our use-case, an inverted index would be useful for mapping from the names of programming languages to the collection of Wikipedia articles that mention the name at least once.
 
@@ -65,7 +65,7 @@ Implement method makeIndex which returns an RDD of the following type: RDD[(Stri
 
 Hint: You might want to use methods flatMap and groupByKey on RDD for this part.
 
-Computing the ranking, rankLangsUsingIndex
+**Computing the ranking, rankLangsUsingIndex**
 
 Use the makeIndex method implemented in the previous part to implement a faster method for computing the language ranking.
 

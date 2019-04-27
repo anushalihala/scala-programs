@@ -97,4 +97,4 @@ An overview of the topics covered in each course is given below.
   * using structure to apply impressive optimizations
   * DataFrames and Datasets - mixing RDDs with the powerful automatic optimizations behind Spark SQL.
 
-Certification link: In Progress
+[Certification link](https://www.coursera.org/account/accomplishments/certificate/7AQ8X3CPWHU7) (Grade: 100%)
